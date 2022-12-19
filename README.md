@@ -30,3 +30,16 @@ For Callipepla,
     cd Callipepla
     TAPAB=./bitstream/Callipepla_xilinx_u280_xdma_201920_3.xclbin ./serpenscg ../matrices/mhd3200b/mhd3200b.mtx 100
 
+
+
+To learn more about the techinqual details, please see [Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver](https://arxiv.org/abs/2209.14350).
+
+
+If you find this code useful, please cite:
+
+    @inproceedings{song2022callipepla,
+        title={Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver},
+        author={Song, Linghao and Guo, Licheng and Basalama, Suhail and Chi, Yuze and Lucas, Robert F and Cong, Jason},
+        booktitle={The 2023 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays},
+        year = {2023}
+    }
