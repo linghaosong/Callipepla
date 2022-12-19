@@ -37,7 +37,7 @@ To learn more about the techinqual details, please see [Callipepla: Stream Centr
 
 If you find this code useful, please cite:
 
-    @inproceedings{song2022callipepla,
+    @inproceedings{song2023callipepla,
         title={Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver},
         author={Song, Linghao and Guo, Licheng and Basalama, Suhail and Chi, Yuze and Lucas, Robert F and Cong, Jason},
         booktitle={The 2023 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays},
