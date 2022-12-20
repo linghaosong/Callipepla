@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/547376034.svg)](https://zenodo.org/badge/latestdoi/547376034)
+
 # Callipepla & SerpensCG
 
 Callipepla & SerpensCG are Conjugate Gradient (CG) solvers on High Bandwdith Memory (HBM) FPGA (Xilinx Alveo U280). 
@@ -23,12 +25,12 @@ For Callipepla,
 For SerpensCG, 
 
     cd SerpensCG
-    TAPAB=./bitstream/Callipepla_xilinx_u280_xdma_201920_3.xclbin ./serpenscg ../matrices/mhd3200b/mhd3200b.mtx 100
+    TAPAB=./bitstream/SerpensCG_xilinx_u280_xdma_201920_3.xclbin ./serpenscg ../matrices/mhd3200b/mhd3200b.mtx 100
 
 For Callipepla, 
 
     cd Callipepla
-    TAPAB=./bitstream/Callipepla_xilinx_u280_xdma_201920_3.xclbin ./serpenscg ../matrices/mhd3200b/mhd3200b.mtx 100
+    TAPAB=./bitstream/Callipepla_xilinx_u280_xdma_201920_3.xclbin ./callipepla ../matrices/mhd3200b/mhd3200b.mtx 100
 
 
 
