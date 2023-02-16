@@ -53,7 +53,7 @@ For Callipepla,
 
 
 
-To learn more about the techinqual details, please see [Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver](https://arxiv.org/abs/2209.14350).
+To learn more about the techinqual details, please see [Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver](https://dl.acm.org/doi/10.1145/3543622.3573182).
 
 
 If you find this code useful, please cite:
