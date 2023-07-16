@@ -9,6 +9,7 @@ Requirements:
 + Following [Install TAPA](https://tapa.readthedocs.io/en/release/installation.html) to install TAPA(Autobridge) and Gurobi.
 + Vitis 2021.2
 + Xilinx xilinx_u280_xdma_201920_3 shell and a Xilinx U280 FPGA card.
++ xilinx_u55c_gen3x16_xdma_3_202210_1 shell to run Callipepla on a Xilinx U55c card.
 
 ### Input matrix format & sample input
 The host code takes martrix market format(https://math.nist.gov/MatrixMarket/formats.html). We test on sparse matrices from SuiteSparse(https://sparse.tamu.edu) collection. We have a few local examples in the [matrices](https://github.com/linghaosong/Callipepla/tree/main/matrices) folder.
