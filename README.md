@@ -8,7 +8,7 @@ Requirements:
 + TAPA + Autobridge
 + Following [Install TAPA](https://tapa.readthedocs.io/en/release/installation.html) to install TAPA(Autobridge) and Gurobi.
 + Vitis 2021.2
-+ Xilinx xilinx_u280_xdma_201920_3 shell and a Xilinx U280 FPGA card.
++ Xilinx xilinx_u280_xdma_201920_3 shell and a Xilinx U280 FPGA card for runing SerpensCG and Callipepla.
 + xilinx_u55c_gen3x16_xdma_3_202210_1 shell to run Callipepla on a Xilinx U55c card.
 
 ### Input matrix format & sample input
